@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\CalculoFormas\bin\Debug\net5.0\CalculoFormas.exe
+C:\Users\User\source\repos\CalculoFormas\bin\Debug\net5.0\CalculoFormas.deps.json
+C:\Users\User\source\repos\CalculoFormas\bin\Debug\net5.0\CalculoFormas.runtimeconfig.json
+C:\Users\User\source\repos\CalculoFormas\bin\Debug\net5.0\CalculoFormas.runtimeconfig.dev.json
+C:\Users\User\source\repos\CalculoFormas\bin\Debug\net5.0\CalculoFormas.dll
+C:\Users\User\source\repos\CalculoFormas\bin\Debug\net5.0\CalculoFormas.pdb
+C:\Users\User\source\repos\CalculoFormas\obj\Debug\net5.0\CalculoFormas.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CalculoFormas\obj\Debug\net5.0\CalculoFormas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CalculoFormas\obj\Debug\net5.0\CalculoFormas.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CalculoFormas\obj\Debug\net5.0\CalculoFormas.AssemblyInfo.cs
+C:\Users\User\source\repos\CalculoFormas\obj\Debug\net5.0\CalculoFormas.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CalculoFormas\obj\Debug\net5.0\CalculoFormas.dll
+C:\Users\User\source\repos\CalculoFormas\obj\Debug\net5.0\refint\CalculoFormas.dll
+C:\Users\User\source\repos\CalculoFormas\obj\Debug\net5.0\CalculoFormas.pdb
+C:\Users\User\source\repos\CalculoFormas\obj\Debug\net5.0\CalculoFormas.genruntimeconfig.cache
+C:\Users\User\source\repos\CalculoFormas\obj\Debug\net5.0\ref\CalculoFormas.dll

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Aula10V\bin\Debug\net5.0\Aula10V.exe
+C:\Users\User\source\repos\Aula10V\bin\Debug\net5.0\Aula10V.deps.json
+C:\Users\User\source\repos\Aula10V\bin\Debug\net5.0\Aula10V.runtimeconfig.json
+C:\Users\User\source\repos\Aula10V\bin\Debug\net5.0\Aula10V.runtimeconfig.dev.json
+C:\Users\User\source\repos\Aula10V\bin\Debug\net5.0\Aula10V.dll
+C:\Users\User\source\repos\Aula10V\bin\Debug\net5.0\Aula10V.pdb
+C:\Users\User\source\repos\Aula10V\obj\Debug\net5.0\Aula10V.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Aula10V\obj\Debug\net5.0\Aula10V.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Aula10V\obj\Debug\net5.0\Aula10V.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Aula10V\obj\Debug\net5.0\Aula10V.AssemblyInfo.cs
+C:\Users\User\source\repos\Aula10V\obj\Debug\net5.0\Aula10V.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Aula10V\obj\Debug\net5.0\Aula10V.dll
+C:\Users\User\source\repos\Aula10V\obj\Debug\net5.0\refint\Aula10V.dll
+C:\Users\User\source\repos\Aula10V\obj\Debug\net5.0\Aula10V.pdb
+C:\Users\User\source\repos\Aula10V\obj\Debug\net5.0\Aula10V.genruntimeconfig.cache
+C:\Users\User\source\repos\Aula10V\obj\Debug\net5.0\ref\Aula10V.dll
